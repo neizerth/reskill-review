@@ -1,0 +1,31 @@
+.stars {
+    display: flex;
+}
+
+a {
+    /* Customer Reviews */
+
+    width: 212px;
+    height: 30px;
+
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #4285F4;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+}
+
+
+a {
+    text-decoration: none!important;
+}

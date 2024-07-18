@@ -1,0 +1,23 @@
+.widget {
+    /* Frame 13 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 32px;
+    gap: 8px;
+
+    position: absolute;
+    width: 458px;
+    height: 198px;
+    left: 1278px;
+    top: 371px;
+
+    background: #FFFFFF;
+    /* card-2 */
+    box-shadow: -8px -4px 32px rgba(0, 0, 0, 0.08), 40px 28px 80px rgba(0, 0, 0, 0.08);
+    border-radius: 16px;
+
+}
